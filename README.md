@@ -6,8 +6,16 @@ A healthcheck middleware of [Bucketchain](https://github.com/Bucketchain/purescr
 
 ## Installation
 
+### Bower
+
 ```
-bower install purescript-bucketchain-health
+$ bower install purescript-bucketchain-health
+```
+
+### Spago
+
+```
+$ spago install bucketchain-health
 ```
 
 ## Documentation
